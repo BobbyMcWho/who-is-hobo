@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
+  .background{ 
+  background-color: rgb(240,240,240);}
+  .main-box{ 
+  display: inline-block;
+  background-color:rgb(220,220,220);
+  text-align: center;
+  border-radius:10px;
+  position: relative;
+  margin-left:20vw;
+  margin-right:20vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  padding-bottom: 3vh;
+  width:60vw;
+  min-width: 400px;
+  }
+  .header {
+  Padding: .25vw 1vw .25vw 1vw;
+  font-size: 4vw;
+  font-family: Oswald;
+  }
+  .header2 {
+  font-size: 2vw;
+  font-style: italic;
+  font-family: Oswald;
+  margin: -1% 1% 1% 1%;
+  }
+  .round-img{
+  Width: 98%;
+  Vertical-Align: Middle;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:1%;
+  padding-bottom:2%;
+  }
+   .main-box2{ 
+  background-color:rgb(255,255,255);
+  text-align: center;
+  border-radius: 5px;
+  font-family:Oswald;
+  font-size:2px, 1.5vmax;
+  padding-bottom:2%;
+  display: inline-block;
+  }
+  .film {
+   font-size: 3vh;
+   font-family: Oswald;
+   margin-top: 1vh;
+  }
+  ul{
+  font-size: 1.5vmax;
+  list-style-position: inside;
+  text-align: center;
+  display: inline-block;
+  text-align: left;
+  margin
+  }
+  #quote {
+  font-size: 1.5vmax;
+  display:inline-block;
+  text-align: center;
+  width: 80%;
+  font-family: Oswald;
+  }
+  #wiki-link{
+  font-size: 3vw;
+  font-family: Oswald;
+  }
+  footer{
+  font-size:2vw;
+  text-align: center; 
+  }
+  .tv {
+   font-size: .5vw;
+   font-family: Oswald;
+   margin-top: 1vh;
+  }
