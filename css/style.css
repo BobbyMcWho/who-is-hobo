@@ -29,7 +29,7 @@
   }
   .round-img{
   Width: 98%;
-  Vertical-Align: Middle;
+  Vertical-Align: middle;
   margin-left: auto;
   margin-right: auto;
   padding-top:1%;
@@ -40,7 +40,7 @@
   text-align: center;
   border-radius: 5px;
   font-family:Oswald;
-  font-size:2px, 1.5vmax;
+  font-size: 2px, 1.5 vmax;
   padding-bottom:2%;
   display: inline-block;
   }
@@ -50,15 +50,14 @@
    margin-top: 1vh;
   }
   ul{
-  font-size: 1.5vmax;
+  font-size: 1.5 vmax;
   list-style-position: inside;
   text-align: center;
   display: inline-block;
   text-align: left;
-  margin
   }
   #quote {
-  font-size: 1.5vmax;
+  font-size: 1.5 vmax;
   display:inline-block;
   text-align: center;
   width: 80%;
